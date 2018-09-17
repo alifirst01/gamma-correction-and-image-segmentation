@@ -9,6 +9,5 @@ Original Image(left), Gamma corrected image(right)
 ### Part 2
 Image segmentation using connection neighbors set  
 
-Original Image(left), Gamma corrected image(right)    
 [Original Image](https://drive.google.com/open?id=1LNhlfUa3XZYeaVOPsuwKq76MGP76Jxrr)  
 [Gamma Corrected Image](https://drive.google.com/open?id=1UCQc092R55OJT_Grrm5AU4Z9yBLsgaWY)
